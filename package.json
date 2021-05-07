@@ -1,0 +1,19 @@
+{
+  "name": "s3lambdaobject",
+  "version": "1.0.0",
+  "description": "this is read me",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/madhusudangohil/s3lambdaobject.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/madhusudangohil/s3lambdaobject/issues"
+  },
+  "homepage": "https://github.com/madhusudangohil/s3lambdaobject#readme"
+}
